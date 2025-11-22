@@ -1,0 +1,68 @@
+[
+  {
+    "id": "prop-1",
+    "title": "Family Home \u2013 Thika Road",
+    "location": "Thika Road, Nairobi",
+    "price": 9800000,
+    "image": "/images/prop1.jpg",
+    "description": "4-bedroom family home with garden.",
+    "size": "3,000 sqft",
+    "beds": 4,
+    "baths": 3
+  },
+  {
+    "id": "prop-2",
+    "title": "Luxury Penthouse \u2013 Nairobi CBD",
+    "location": "Nairobi CBD",
+    "price": 35000000,
+    "image": "/images/prop2.jpg",
+    "description": "Penthouse with skyline views and concierge.",
+    "size": "2,500 sqft",
+    "beds": 3,
+    "baths": 3
+  },
+  {
+    "id": "prop-3",
+    "title": "Affordable Starter Home \u2013 Rongai",
+    "location": "Rongai, Nairobi",
+    "price": 4500000,
+    "image": "/images/prop3.jpg",
+    "description": "Great starter home for young families.",
+    "size": "1,400 sqft",
+    "beds": 2,
+    "baths": 1
+  },
+  {
+    "id": "prop-4",
+    "title": "Modern Apartment \u2013 Westlands",
+    "location": "Westlands, Nairobi",
+    "price": 6500000,
+    "image": "/images/prop4.jpg",
+    "description": "Modern 2-bedroom apartment.",
+    "size": "1,200 sqft",
+    "beds": 2,
+    "baths": 2
+  },
+  {
+    "id": "prop-5",
+    "title": "Seaside Villa \u2013 Mombasa",
+    "location": "Nyali, Mombasa",
+    "price": 12500000,
+    "image": "/images/prop5.jpg",
+    "description": "Coastal villa with sea views and garden.",
+    "size": "3,500 sqft",
+    "beds": 5,
+    "baths": 4
+  },
+  {
+    "id": "prop-6",
+    "title": "Commercial Plot \u2013 Kitengela",
+    "location": "Kitengela",
+    "price": 8000000,
+    "image": "/images/prop6.jpg",
+    "description": "Prime commercial plot close to the highway.",
+    "size": "1 acre",
+    "beds": 0,
+    "baths": 0
+  }
+]
